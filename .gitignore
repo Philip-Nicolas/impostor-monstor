@@ -1,0 +1,18 @@
+node_modules
+
+.env
+out/*
+
+.eslintcache
+*.log
+*.swp
+
+# IDEs
+*.idea
+.vscode/*
+
+# files for testing whatever
+*testzone*.js
+
+# macos specific
+*.DS_Store
