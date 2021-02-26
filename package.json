@@ -1,0 +1,15 @@
+{
+  "name": "impostor-monstor",
+  "version": "0.0.0",
+  "description": "discord bot to identify impostors",
+  "private": true,
+  "main": "index.js",
+  "scripts": {},
+  "author": {
+    "name": "Philip-Nicolas Varga",
+    "email": "pnvarga@icloud.com"
+  },
+  "dependencies": {
+    "canvas": "latest"
+  }
+}
